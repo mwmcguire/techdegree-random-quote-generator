@@ -12,7 +12,7 @@ Click here --> https://mwmcguire.github.io/techdegree-random-quote-generator/
 
 ## Authors and acknowledgement
 
-Michael McGuire\s\s
+Michael McGuire\
 https://teamtreehouse.com/
 
 ## License
