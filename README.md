@@ -1,6 +1,6 @@
 # Random Quote Generator
 
-Random Quote Generator for TeamTreeHouse Full-Stack JavaScript TechDegree Unit-01
+Random Quote Generator for TreeHouse Full-Stack JavaScript Tech Degree unit-01
 
 ## Installation
 
@@ -8,13 +8,11 @@ clone repo
 
 ## Usage
 
-```
-index.html
-```
+Click here --> https://mwmcguire.github.io/techdegree-random-quote-generator/
 
 ## Authors and acknowledgement
 
-Michael McGuire
+Michael McGuire\s\s
 https://teamtreehouse.com/
 
 ## License
